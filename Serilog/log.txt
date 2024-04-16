@@ -1,0 +1,45 @@
+2024-04-17 01:07:42.889 +03:00 [INF] Now listening on: https://localhost:7299
+2024-04-17 01:07:42.933 +03:00 [INF] Now listening on: http://localhost:5280
+2024-04-17 01:07:43.196 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-17 01:07:43.204 +03:00 [INF] Hosting environment: Development
+2024-04-17 01:07:43.209 +03:00 [INF] Content root path: C:\HobbyProjects\Serilog\Serilog\
+2024-04-17 01:07:44.352 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7299/swagger/index.html - -
+2024-04-17 01:07:44.680 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7299/swagger/index.html - - - 200 - text/html;charset=utf-8 335.3092ms
+2024-04-17 01:07:44.682 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7299/_vs/browserLink - -
+2024-04-17 01:07:44.682 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7299/_framework/aspnetcore-browser-refresh.js - -
+2024-04-17 01:07:44.700 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7299/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 17.8889ms
+2024-04-17 01:07:44.773 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7299/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 90.6333ms
+2024-04-17 01:07:44.956 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7299/swagger/v1/swagger.json - -
+2024-04-17 01:07:45.105 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7299/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 148.7517ms
+2024-04-17 01:07:49.881 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7299/WeatherForecast - -
+2024-04-17 01:07:49.903 +03:00 [INF] Executing endpoint 'Serilog.Controllers.WeatherForecastController.Get (Serilog.API)'
+2024-04-17 01:07:49.955 +03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Serilog.WeatherForecast] Get() on controller Serilog.Controllers.WeatherForecastController (Serilog.API).
+2024-04-17 01:07:49.968 +03:00 [INF] deneme logu
+2024-04-17 01:07:49.988 +03:00 [INF] Executing ObjectResult, writing value of type 'Serilog.WeatherForecast[]'.
+2024-04-17 01:07:50.017 +03:00 [INF] Executed action Serilog.Controllers.WeatherForecastController.Get (Serilog.API) in 46.0235ms
+2024-04-17 01:07:50.023 +03:00 [INF] Executed endpoint 'Serilog.Controllers.WeatherForecastController.Get (Serilog.API)'
+2024-04-17 01:07:50.026 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7299/WeatherForecast - - - 200 - application/json;+charset=utf-8 145.1295ms
+2024-04-17 01:14:01.543 +03:00 [INF] Now listening on: https://localhost:7299
+2024-04-17 01:14:01.588 +03:00 [INF] Now listening on: http://localhost:5280
+2024-04-17 01:14:01.860 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-04-17 01:14:01.867 +03:00 [INF] Hosting environment: Development
+2024-04-17 01:14:01.873 +03:00 [INF] Content root path: C:\HobbyProjects\Serilog\Serilog\
+2024-04-17 01:14:03.210 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7299/swagger/index.html - -
+2024-04-17 01:14:03.555 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7299/swagger/index.html - - - 200 - text/html;charset=utf-8 353.7525ms
+2024-04-17 01:14:03.559 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7299/_framework/aspnetcore-browser-refresh.js - -
+2024-04-17 01:14:03.559 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7299/_vs/browserLink - -
+2024-04-17 01:14:03.580 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7299/_framework/aspnetcore-browser-refresh.js - - - 200 11992 application/javascript;+charset=utf-8 20.6991ms
+2024-04-17 01:14:03.659 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7299/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 99.8188ms
+2024-04-17 01:14:03.754 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7299/swagger/v1/swagger.json - -
+2024-04-17 01:14:03.928 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7299/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 173.8545ms
+2024-04-17 01:14:10.483 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7299/WeatherForecast - -
+2024-04-17 01:14:10.494 +03:00 [INF] Executing endpoint 'Serilog.Controllers.WeatherForecastController.Get (Serilog.API)'
+2024-04-17 01:14:10.534 +03:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[Serilog.WeatherForecast] Get() on controller Serilog.Controllers.WeatherForecastController (Serilog.API).
+2024-04-17 01:14:10.547 +03:00 [INF] deneme
+2024-04-17 01:14:10.627 +03:00 [WRN] deneme
+2024-04-17 01:14:10.634 +03:00 [ERR] deneme
+2024-04-17 01:14:10.638 +03:00 [FTL] deneme
+2024-04-17 01:14:10.655 +03:00 [INF] Executing ObjectResult, writing value of type 'Serilog.WeatherForecast[]'.
+2024-04-17 01:14:10.681 +03:00 [INF] Executed action Serilog.Controllers.WeatherForecastController.Get (Serilog.API) in 133.2078ms
+2024-04-17 01:14:10.689 +03:00 [INF] Executed endpoint 'Serilog.Controllers.WeatherForecastController.Get (Serilog.API)'
+2024-04-17 01:14:10.694 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7299/WeatherForecast - - - 200 - application/json;+charset=utf-8 210.6196ms
